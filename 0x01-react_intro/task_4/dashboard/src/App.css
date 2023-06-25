@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  border-bottom: 4px solid #E0354B;
+}
+
+.App-header img {
+  width: 160px;
+  height: 160px;
+}
+
+.App-header h1 {
+  align-self: center;
+  color:  #E0354B;
+}
+
+.App-body {
+  text-align: left;
+  font-size: 1.1rem;
+  padding-left: 30px;
+}
+
+.App-footer {
+  border-top: 4px solid #E0354B;
+  font-style: italic;
+}
